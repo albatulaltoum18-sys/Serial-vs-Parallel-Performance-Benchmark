@@ -1,0 +1,150 @@
+[RUN 1]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.476 seconds
+real=0.48 user=0.45 sys=0.02
+
+[RUN 2]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.396 seconds
+real=0.40 user=0.36 sys=0.03
+
+[RUN 3]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.405 seconds
+real=0.41 user=0.38 sys=0.02
+
+[RUN 4]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.470 seconds
+real=0.47 user=0.46 sys=0.01
+
+[RUN 5]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.408 seconds
+real=0.41 user=0.39 sys=0.02
+
+[RUN 6]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.404 seconds
+real=0.41 user=0.37 sys=0.03
+
+[RUN 7]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.464 seconds
+real=0.47 user=0.42 sys=0.04
+
+[RUN 8]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.467 seconds
+real=0.47 user=0.44 sys=0.02
+
+[RUN 9]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.468 seconds
+real=0.47 user=0.44 sys=0.02
+
+[RUN 10]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.463 seconds
+real=0.46 user=0.43 sys=0.03
+
+[RUN 11]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.422 seconds
+real=0.42 user=0.38 sys=0.04
+
+[RUN 12]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.469 seconds
+real=0.47 user=0.45 sys=0.01
+
+[RUN 13]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.411 seconds
+real=0.41 user=0.37 sys=0.03
+
+[RUN 14]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.401 seconds
+real=0.40 user=0.39 sys=0.01
+
+[RUN 15]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.455 seconds
+real=0.46 user=0.44 sys=0.01
+
+[RUN 16]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.481 seconds
+real=0.48 user=0.46 sys=0.01
+
+[RUN 17]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.367 seconds
+real=0.37 user=0.36 sys=0.00
+
+[RUN 18]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.490 seconds
+real=0.49 user=0.49 sys=0.00
+
+[RUN 19]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.476 seconds
+real=0.48 user=0.47 sys=0.00
+
+[RUN 20]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.355 seconds
+real=0.36 user=0.35 sys=0.00
+
+[RUN 21]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.386 seconds
+real=0.39 user=0.36 sys=0.02
+
+[RUN 22]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.385 seconds
+real=0.39 user=0.36 sys=0.02
+
+[RUN 23]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.408 seconds
+real=0.41 user=0.39 sys=0.01
+
+[RUN 24]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.385 seconds
+real=0.39 user=0.36 sys=0.02
+
+[RUN 25]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.508 seconds
+real=0.51 user=0.49 sys=0.01
+
+[RUN 26]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.512 seconds
+real=0.51 user=0.49 sys=0.02
+
+[RUN 27]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.380 seconds
+real=0.38 user=0.37 sys=0.01
+
+[RUN 28]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.514 seconds
+real=0.52 user=0.49 sys=0.02
+
+[RUN 29]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.434 seconds
+real=0.44 user=0.41 sys=0.02
+
+[RUN 30]
+Sum of all elements in C = 500000000.00
+Serial execution time: 0.384 seconds
+real=0.38 user=0.36 sys=0.02
+

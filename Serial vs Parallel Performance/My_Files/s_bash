@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# ====== drop caches to reduce noise ======
+echo "[INFO] Dropping caches..."
+sync
+echo 3 > /proc/sys/vm/drop_caches
+
+# ====== To run the program 30 times ======
+PROGRAM="/home/albatul/Desktop/myrun/Serial_part"
+RUNS=30
+OUTFILE="/home/albatul/Desktop/myrun/Serial_results.txt"
+
+for i in $(seq 1 $RUNS); do
+  echo "[RUN $i]" | tee -a "$OUTFILE"
+  sync
+  echo 3 > /proc/sys/vm/drop_caches
+  /usr/bin/time -f "real=%e user=%U sys=%S" "$PROGRAM" >> "$OUTFILE" 2>&1
+  echo "" >> "$OUTFILE"
+done
+
+exit 0

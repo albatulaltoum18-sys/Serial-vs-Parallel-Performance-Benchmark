@@ -1,0 +1,150 @@
+[RUN 1]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.364 seconds
+real=0.10 user=0.32 sys=0.03
+
+[RUN 2]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.353 seconds
+real=0.09 user=0.34 sys=0.01
+
+[RUN 3]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.359 seconds
+real=0.09 user=0.31 sys=0.04
+
+[RUN 4]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.441 seconds
+real=0.11 user=0.41 sys=0.03
+
+[RUN 5]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.367 seconds
+real=0.10 user=0.29 sys=0.07
+
+[RUN 6]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.362 seconds
+real=0.09 user=0.33 sys=0.03
+
+[RUN 7]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.345 seconds
+real=0.09 user=0.31 sys=0.03
+
+[RUN 8]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.362 seconds
+real=0.10 user=0.32 sys=0.03
+
+[RUN 9]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.355 seconds
+real=0.09 user=0.33 sys=0.02
+
+[RUN 10]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.364 seconds
+real=0.09 user=0.30 sys=0.06
+
+[RUN 11]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.352 seconds
+real=0.09 user=0.32 sys=0.03
+
+[RUN 12]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.377 seconds
+real=0.10 user=0.33 sys=0.04
+
+[RUN 13]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.376 seconds
+real=0.10 user=0.33 sys=0.04
+
+[RUN 14]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.346 seconds
+real=0.09 user=0.32 sys=0.02
+
+[RUN 15]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.442 seconds
+real=0.11 user=0.41 sys=0.03
+
+[RUN 16]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.352 seconds
+real=0.09 user=0.33 sys=0.01
+
+[RUN 17]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.375 seconds
+real=0.10 user=0.35 sys=0.02
+
+[RUN 18]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.365 seconds
+real=0.09 user=0.34 sys=0.02
+
+[RUN 19]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.352 seconds
+real=0.09 user=0.32 sys=0.03
+
+[RUN 20]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.460 seconds
+real=0.12 user=0.38 sys=0.07
+
+[RUN 21]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.377 seconds
+real=0.10 user=0.34 sys=0.04
+
+[RUN 22]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.353 seconds
+real=0.09 user=0.34 sys=0.01
+
+[RUN 23]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.457 seconds
+real=0.12 user=0.42 sys=0.03
+
+[RUN 24]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.451 seconds
+real=0.11 user=0.41 sys=0.04
+
+[RUN 25]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.436 seconds
+real=0.11 user=0.39 sys=0.04
+
+[RUN 26]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.374 seconds
+real=0.10 user=0.34 sys=0.03
+
+[RUN 27]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.352 seconds
+real=0.09 user=0.30 sys=0.05
+
+[RUN 28]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.366 seconds
+real=0.10 user=0.34 sys=0.02
+
+[RUN 29]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.360 seconds
+real=0.10 user=0.29 sys=0.06
+
+[RUN 30]
+Sum of all elements in C = 500000000.00
+Parallel execution time: 0.366 seconds
+real=0.09 user=0.34 sys=0.02
+
